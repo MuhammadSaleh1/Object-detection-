@@ -1,0 +1,7 @@
+path: C:\Users\sulai\OneDrive\Desktop\CV projects\first\OIDv4_ToolKit\OID\Dataset
+train: Person
+val: Person
+
+#Classes
+names:
+  0 : Person
